@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9A75E3ED-50D8-462E-9558-1794F897ECD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordBox/Program.cs">
+    <Files>
+      <File FileName="WordBox/Program.cs" Line="12" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WordBox PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

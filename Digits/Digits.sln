@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digits", "Digits\Digits.csproj", "{A369A1B9-6A50-40F5-B25C-9233EFDB8FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A369A1B9-6A50-40F5-B25C-9233EFDB8FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A369A1B9-6A50-40F5-B25C-9233EFDB8FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A369A1B9-6A50-40F5-B25C-9233EFDB8FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A369A1B9-6A50-40F5-B25C-9233EFDB8FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

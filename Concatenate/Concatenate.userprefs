@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F335B6BF-E958-4B67-B465-668B6F4AF1D7}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Concatenate/Test.cs">
+    <Files>
+      <File FileName="Concatenate/Test.cs" Line="20" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Concatenate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{1679BCD6-4C88-4798-82C1-69E64EEF5657}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeapYear/Program.cs">
+    <Files>
+      <File FileName="LeapYear/Program.cs" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LeapYear PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
